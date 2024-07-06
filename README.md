@@ -52,29 +52,40 @@ Follow the Prompts
   The application will display the rover's status and grid after each command.
 
 Example Usage
-mathematica
-Copy code
+
 Enter grid width:
 5
+
 Enter grid height:
 5
+
 Enter number of obstacles:
 1
+
 Enter obstacle X coordinate:
 0
+
 Enter obstacle Y coordinate:
 0
+
 Enter initial rover X coordinate:
 1
+
 Enter initial rover Y coordinate:
 3
+
 Enter initial rover direction (N/E/S/W):
 S
+
 Enter commands (M/L/R) or Q to quit:
 M
+
 Initial Rover is at (1, 3) facing S.
+
 After 'M': Rover is at (1, 2) facing S.
+
 Final Rover is at (1, 2) facing S.
+
 . . . . .
 . . . . .
 . R . . .
